@@ -23,6 +23,7 @@
   .elementor-button.elementor-button-success {
     color: #fff; }
     .elementor-button.elementor-button-success[disabled] {
+      background-color: #c2cbd2; }
     .elementor-button.elementor-button-success:not([disabled]) {
       background-color: #39b54a; }
       .elementor-button.elementor-button-success:not([disabled]):hover {
